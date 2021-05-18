@@ -13,3 +13,9 @@ Now click on "New issue" to create a new issue.
 After that, you will be seeing something like this:
 ![Describe issue](screenshots/describe_issue.png)
 
+When describing the issue, you need to take care of following things:
+- For features request, Tell us everything and describe it clearly and briefly.
+- For bug reports, Provide a brief summary and also tell the steps to reproduce the bug
+- For documentation improvements, Tell us the page and closest anchor (if you know).
+- For other issues, Just be descriptive.
+
