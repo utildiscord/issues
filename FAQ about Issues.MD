@@ -13,5 +13,5 @@ Of course, Here is the table showing how badges are obtained.
 ### Q2. What are approved bug/feature/issue (s)?
 These are issues marked with `approved` label. Person who gets their issue marked approved can get 10000 UTs. Open a ticket in [support server](http://dsc.gg/utilcommunity).
 
-## Q3. I'm elligible to get the badge, What can I do?
+### Q3. I'm elligible to get the badge, What can I do?
 Join our [support server](http://dsc.gg/utilcommunity) and open a ticket.
