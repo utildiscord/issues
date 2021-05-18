@@ -11,7 +11,7 @@ Now click on "New issue" to create a new issue.
 ![Create a new issue](screenshots/open_issue.png)
 
 After that, you will be seeing something like this:
-![Describe issue](screenshots/describe_issue.png)
+![Describe issue](screenshots/describe_issue.PNG)
 
 When describing the issue, you need to take care of following things:
 - For features request, Tell us everything and describe it clearly and briefly.
