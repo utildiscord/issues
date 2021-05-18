@@ -5,4 +5,4 @@ Official repository of Util bot for issue reports and feature requests. This is 
 This is guide showing how you can create an issue for either bug reports, feature requests or other stuff.
 
 ### Creating an issue
-
+![Issues Tab](screenshots/issues_tab.png)
