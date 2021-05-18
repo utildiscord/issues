@@ -6,7 +6,7 @@ This is guide showing how you can create an issue for either bug reports, featur
 
 First off, Go to the issues tab. 
 ![Issues Tab](screenshots/issues_tab.png)
-----
+
 Now click on "New issue" to create a new issue.
 
 
