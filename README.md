@@ -46,9 +46,10 @@
       </tr>
     </table>
   </p>
+  <h2 align='center'>
+    Bug Bounty
+  </h2>
+  <p align="center">
+    As a part of Util's bug bounty program, If you report 5 bugs and they are confirmed, You get a shiny exclusive role in our discord server and an official Bug Hunter badge in Util.
+  </p>
 </div>
-
-## Bug Bounty
-As a part of Util's bug bounty program, If you report 5 bugs and they are confirmed, You get a shiny exclusive role in our discord server and an official Bug Hunter badge in Util.
-
-> See something, Say something!
