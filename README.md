@@ -22,7 +22,7 @@
       </tr>
       <tr align="center">
         <td>
-          <a href="doc/issues_guide.md">
+          <a href="doc/rules.md">
             Tracker Rules
           </a>    
         </td>
