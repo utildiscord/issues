@@ -1,54 +1,61 @@
-# Util Issues Reports & Features requests
-Official repository of Util bot for issue reports and feature requests. This is the place to submit bugs and other issues.
+<div>
+  <h1 align='center'>
+    Util Issues Tracker
+  </h1>
+  <p align='center'>
+    <img src="https://img.shields.io/github/issues/utildiscord/issues?color=blue&label=Active%20requests&style=for-the-badge">
+    <a href="https://dsc.gg/utildiscord">
+      <img src="https://img.shields.io/discord/828142145273462814?color=%237289DA&label=Discord%20Server&logo=discord&style=for-the-badge">
+    </a>
+  </p>
+  <p align="center">
+    Official issue tracker of the Util Discord bot for bug reports & feature requests etc.
+  </p>
+  <h2 align='center'>
+    Table of Contents
+  </h2>
+  <p align="center">
+    <table align="center">
+      <tr align="center">
+        <th>Page Link</th>
+        <th>Description</th>
+      </tr>
+      <tr align="center">
+        <td>
+          <a href="doc/issues_guide.md">
+            Tracker Rules
+          </a>    
+        </td>
+        <td>Read the rules before interacting with issues tracker.</td>
+      </tr>
+      <tr align="center">
+        <td>
+          <a href="doc/issues_guide.md">
+            Opening an issue
+          </a>    
+        </td>
+        <td>Open an issue for either reporting a bug, requesting a feature etc.</td>
+      </tr>
+      <tr align="center">
+        <td>
+          <a href="https://github.com/utildiscord/issues/issues">
+            Current open issues
+          </a>    
+        </td>
+        <td>Explore through current open issues and contribute in them</td>
+      </tr>
+      <tr align="center">
+        <td>
+          <a href="doc/issues_navigate.md">
+            Navigate through issues
+          </a>    
+        </td>
+        <td>A guide to make you understand how issues work etc.</td>
+      </tr>
+    </table>
+  </p>
+</div>
 
-## Guide for creating issues
-This is guide showing how you can create an issue for either bug reports, feature requests or other stuff.
-
-### Creating a new issue
-
-First off, Go to the issues tab. 
-
-![Issues Tab](screenshots/issues_tab.png)
-
-Now click on "New issue" to create a new issue.
-
-![Create a new issue](screenshots/open_issue.png)
-
-### Describing the issue
-
-After that, you will be seeing something like this:
-
-![Describe issue](screenshots/describe_issue.PNG)
-
-When describing the issue, you need to take care of following things:
-- For features request, Tell us everything and describe it clearly and briefly.
-- For bug reports, Provide a brief summary and also tell the steps to reproduce the bug
-- For documentation improvements, Tell us the page and closest anchor (if you know).
-- For other issues, Just be descriptive.
-
-Tips:
-- This supports advanced markdown. (Code blocks, Bold and italic texts. Just like discord's markdown)
-- You can also use emojis easily like: `:emoji_name:`
-
-### Selecting Labels
-
-Labels are used to organize issues in category like bugs, feature requests etc. Click on labels dropdown and select related labels.
-
-![Label issue](screenshots/labels.png)
-
-Now finally submit the issue.
-
-## What now?
-
-![Issue](screenshots/final.png)
-
-Once you have submitted the issue, Visitors and Maintainers can see your issue. We will review your issue. You, visitors and maintainers can use Comments to discuss the issue.
-
-When the issue is sorted out, It is closed.
-
-- For bug reports, It remains open till bug is not fixed.
-- For feature requests and improvements, It remains open till the feature or improvement has been added to bot.
-
-## Good luck!
+## Top Contributors!
 Your contribution to Util is always appreciated! In fact, they are the reason for Util to stay alive. Feel free to open issues. 
 > See something, Say something!
