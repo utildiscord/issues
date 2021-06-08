@@ -50,6 +50,12 @@
     Bug Bounty
   </h2>
   <p align="center">
-    As a part of Util's bug bounty program, If you report 5 bugs and they are confirmed, You get a shiny exclusive role in our discord server and an official Bug Hunter badge in Util.
+    As a part of Util's bug bounty program, If you report 3 bugs and they are confirmed, You get a shiny exclusive role in our discord server and an official Bug Hunter badge in Util. With plus to that, You can also get a shout out in our server and credits in change log if you suggest a feature that get implemented.
+  </p>
+  <h2 align='center'>
+    Acknowledgment
+  </h2>
+  <p align="center">
+    This tracker is not in any way is a place to ask questions or get support. For support and questions, Join our discord server.
   </p>
 </div>
