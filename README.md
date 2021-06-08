@@ -48,6 +48,7 @@
   </p>
 </div>
 
-## Top Contributors!
-Your contribution to Util is always appreciated! In fact, they are the reason for Util to stay alive. Feel free to open issues. 
+## Bug Bounty
+As a part of Util's bug bounty program, If you report 5 bugs and they are confirmed, You get a shiny exclusive role in our discord server and an official Bug Hunter badge in Util.
+
 > See something, Say something!
