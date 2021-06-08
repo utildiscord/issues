@@ -22,14 +22,6 @@
       </tr>
       <tr align="center">
         <td>
-          <a href="doc/rules.md">
-            Tracker Rules
-          </a>    
-        </td>
-        <td>Read the rules before interacting with issues tracker.</td>
-      </tr>
-      <tr align="center">
-        <td>
           <a href="doc/issues_guide.md">
             Opening an issue
           </a>    
