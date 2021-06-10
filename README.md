@@ -36,14 +36,6 @@
         </td>
         <td>Explore through current open issues and contribute in them</td>
       </tr>
-      <tr align="center">
-        <td>
-          <a href="doc/issues_navigate.md">
-            Navigate through issues
-          </a>    
-        </td>
-        <td>A guide to make you understand how issues work etc.</td>
-      </tr>
     </table>
   </p>
   <h2 align='center'>
