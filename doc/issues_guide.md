@@ -15,7 +15,7 @@
     Firstly navigate to issues tab
   </p>
   <p align="center">
-    <img src="https://github.com/utildiscord/issues/main/screenshots/issues_tab.png">
+    <img src="https://github.com/utildiscord/issues/tree/main/screenshots/issues_tab.png">
   </p>
 </div>
 ## Issues Tab
